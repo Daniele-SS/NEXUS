@@ -1,3 +1,4 @@
+![](./img/logo.jpg)
 # AVALON — Termo de Abertura do Projeto (TAP)
 
 > **Projeto Integrado** — SENAI Jandira | Curso Técnico em Desenvolvimento de Sistemas</br>
