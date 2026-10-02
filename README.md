@@ -79,6 +79,7 @@ Este projeto justifica-se por propor uma plataforma em que o controle de acesso,
 | Banco de Dados | [AVALON-BANCO_DE_DADOS](https://github.com/Daniele-SS/AVALON-BANCO_DE_DADOS.git) |
 | Back-End / API | [AVALON-BACK_END](https://github.com/Daniele-SS/AVALON-BACK_END.git) |
 | Front-End | [AVALON-FRONT_END](https://github.com/Daniele-SS/AVALON-FRONT_END.git) |
+| Mobile | [AVALON-MOBILE](https://github.com/Daniele-SS/AVALON-MOBILE.git) |
 
 ## 9. Status Atual
 
